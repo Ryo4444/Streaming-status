@@ -1,13 +1,12 @@
 {
   "setup": {
-    "city": "pattay",
+    "city": "Bangkok",
     "delay": 10
   },
   "config": {
     "options": {
       "watch-url": [
-        "https://www.twitch.tv/4levy_z1",
-        "https://www.youtube.com/watch?v=HuFZX0LB29g"
+        "https://www.twitch.tv/4levy_z1"
       ],
       "timestamp": "{start}"
     },
@@ -118,14 +117,14 @@
     "smallimg": [],
     "button-1": [
       {
-        "name": "Miyako's server",
-        "url": "https://discord.gg/TSdpyMMfrU"
+        "name": "🪐╺ Universe",
+        "url": "https://discord.gg/WcT34rzw8e"
       }
     ],
     "button-2": [
       {
-        "name": "Stream status > Deobf",
-        "url": "https://github.com/4levy/Streaming-status"
+        "name": "💫╺ IG",
+        "url": "https://www.instagram.com/c.summer.queen"
       }
     ]
   }
